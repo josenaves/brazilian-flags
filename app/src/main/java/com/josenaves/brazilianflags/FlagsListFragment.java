@@ -28,5 +28,6 @@ public class FlagsListFragment extends ListFragment  {
     public void onListItemClick(ListView l, View v, int position, long id) {
         String item = (String) getListAdapter().getItem(position);
         Toast.makeText(getActivity(), item + " selected", Toast.LENGTH_SHORT).show();
+
     }
 }
