@@ -9,6 +9,7 @@ TO DO:
 * apply Material Design
 
 DONE:
+* images (flags)
 * migrate to Android Studio and Gradle
 * use fragments
 * use compatibility library

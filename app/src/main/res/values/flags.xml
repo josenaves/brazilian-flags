@@ -32,33 +32,33 @@
     </string-array>
 
     <array name="state_flags">
-        <item>@drawable/acre</item>
-        <item>@drawable/alagoas</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
-        <item>@drawable/acre</item>
+        <item>@drawable/img_acre</item>
+        <item>@drawable/img_alagoas</item>
+        <item>@drawable/img_amapa</item>
+        <item>@drawable/img_amazonas</item>
+        <item>@drawable/img_bahia</item>
+        <item>@drawable/img_ceara</item>
+        <item>@drawable/img_distrito_federal</item>
+        <item>@drawable/img_espirito_santo</item>
+        <item>@drawable/img_goias</item>
+        <item>@drawable/img_maranhao</item>
+        <item>@drawable/img_mato_grosso</item>
+        <item>@drawable/img_mato_grosso_sul</item>
+        <item>@drawable/img_minas_gerais</item>
+        <item>@drawable/img_para</item>
+        <item>@drawable/img_paraiba</item>
+        <item>@drawable/img_parana</item>
+        <item>@drawable/img_pernambuco</item>
+        <item>@drawable/img_piaui</item>
+        <item>@drawable/img_rio_de_janeiro</item>
+        <item>@drawable/img_rio_grande_norte</item>
+        <item>@drawable/img_rio_grande_sul</item>
+        <item>@drawable/img_rondonia</item>
+        <item>@drawable/img_roraima</item>
+        <item>@drawable/img_santa_catarina</item>
+        <item>@drawable/img_sao_paulo</item>
+        <item>@drawable/img_sergipe</item>
+        <item>@drawable/img_tocantins</item>
     </array>
 
 </resources>
